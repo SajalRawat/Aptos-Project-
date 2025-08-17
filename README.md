@@ -49,7 +49,7 @@ The workshop helped me realize the **real-world use cases of blockchain** beyond
 ---
 ## Details of Project
 Project Address - https://explorer.aptoslabs.com/txn/0x24f789d4a6efd99492c066c84acf794ca56e956167f0fb26a5759f4ff5ce5958?network=devnet
-Project Host/Server - devnet
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/52a84937-63cd-4d6c-8b7b-cd33f966de58" />
 
 

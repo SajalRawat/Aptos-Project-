@@ -1,4 +1,3 @@
-# Aptos-Project-
 # 🎵 Music Recital Certificates on Aptos (Move Language)
 
 ## 📖 About the Project
@@ -35,14 +34,24 @@ This was designed as a minimal example (within ~40–50 lines) to learn **Move s
 ## 🏫 My Experience
 I built this project after attending an **Aptos Workshop at AIT Pune** 🎓.  
 It was my first hands-on experience with Move and blockchain smart contracts.  
-I learned:
+
+I am truly **grateful to the Aptos team and the Rise In team** 🙏 for conducting such an insightful session.  
+A special thanks to the mentor from **Rise In** who explained the concepts so clearly and made learning both fun and practical.  
+I would also like to thank the **GDG Club at AIT Pune** 💡 for organizing this wonderful event and giving us the opportunity to explore Web3 technologies.  
+
+Through this project, I learned:
 - How to design structs and functions in Move  
 - How to publish a module on Aptos using the CLI  
 - How to interact with contracts by calling entry functions  
 
-The workshop helped me understand **real-world use cases of blockchain** beyond just tokens — like **certificates and credentials**.
+The workshop helped me realize the **real-world use cases of blockchain** beyond just tokens — such as **certificates, credentials, and education-based utilities**.
 
 ---
+## Details of Project
+Project Address - https://explorer.aptoslabs.com/txn/0x24f789d4a6efd99492c066c84acf794ca56e956167f0fb26a5759f4ff5ce5958?network=devnet
+Project Host/Server - devnet
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/52a84937-63cd-4d6c-8b7b-cd33f966de58" />
+
 
 ## 🤖 AI Assistance
 I used **AI (ChatGPT by OpenAI)** to help me:
@@ -50,7 +59,7 @@ I used **AI (ChatGPT by OpenAI)** to help me:
 - Optimize the contract into <50 lines  
 - Write this README documentation  
 
-This was my first time combining **AI + Web3 learning**, which made the process smoother and much faster 🚀.
+This was my first time combining **AI + Web3 learning**, and it made the process smoother, faster, and more enjoyable 🚀.
 
 ---
 
@@ -65,4 +74,3 @@ This was my first time combining **AI + Web3 learning**, which made the process 
 - **Blockchain**: Aptos  
 - **Language**: Move  
 - **Tools**: Aptos CLI, Faucet, GitHub  
-
